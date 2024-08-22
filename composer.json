@@ -1,0 +1,19 @@
+{
+    "name": "sosoricsi/age-calculator",
+    "description": "Simple age calculator in php.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SosoRicsi\\AgeCalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SosoRicsi",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
